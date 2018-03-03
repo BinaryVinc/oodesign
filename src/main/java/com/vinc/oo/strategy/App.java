@@ -9,7 +9,7 @@ package com.vinc.oo.strategy;
  * 少继承多组合
  *
  */
-public class AAppStrategy {
+public class App {
     public static void main(String[] args) {
 
         ColorBlack colorBlack = new ColorBlack();
