@@ -1,7 +1,11 @@
 package com.vinc.oo.observer;
 
 /**
- * Description  一个庄家收割的悲惨境遇
+ * Description
+ * java———————— observer Observable ...
+ * 使用案例：hystrix 限流降级框架
+ *
+ * 一个被庄家收割的悲惨境遇
  * Created by vinc on 2018/3/3.
  */
 public class App {
